@@ -1,3 +1,6 @@
 [submodule "puppet-jruby-lifetime"]
 	path = puppet-jruby-lifetime
 	url = git@github.com:suckatrash/puppet-jruby-lifetime.git
+[submodule "Jira_updater"]
+	path = Jira_updater
+	url = git@github.com:puppetlabs/Jira_updater.git
